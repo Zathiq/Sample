@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --brand-navy: #00204A;
+    --brand-navy-dark: #001737;
+    --brand-cyan: #00A8B5;
+    --brand-cyan-light: #38BDF8;
+    --brand-teal-deep: #007C8A;
+    --brand-charcoal: #334155;
+    --brand-slate: #1E293B;
+  }
+
+  body {
+    background-color: #F8FAFC;
+    color: #1E293B;
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+}
+
+/* Custom utility colors aligned with official logo */
+.bg-brand-navy {
+  background-color: #00204A;
+}
+
+.text-brand-navy {
+  color: #00204A;
+}
+
+.bg-brand-cyan {
+  background-color: #00A8B5;
+}
+
+.text-brand-cyan {
+  color: #00A8B5;
+}
+
+.border-brand-cyan {
+  border-color: #00A8B5;
+}
+
+.border-brand-navy {
+  border-color: #00204A;
+}

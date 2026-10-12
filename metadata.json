@@ -1,0 +1,6 @@
+{
+  "name": "Sutton Oasis Technical Services LLC",
+  "description": "Premier MEP testing, commissioning validation, HVAC air balancing, thermographic surveys, duct leakage testing, and electrical testing in Dubai, UAE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
